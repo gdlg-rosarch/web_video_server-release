@@ -1,3 +1,24 @@
+## web_video_server (jade) - 0.0.2-0
+
+The packages in the `web_video_server` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade web_video_server --new-track` on `Tue, 07 Apr 2015 17:57:28 -0000`
+
+The `web_video_server` package was released.
+
+Version of package(s) in repository `web_video_server`:
+- upstream repository: https://github.com/RobotWebTools/web_video_server.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## web_video_server (hydro) - 0.0.2-0
 
 The packages in the `web_video_server` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro web_video_server` on `Fri, 20 Feb 2015 13:53:00 -0000`
