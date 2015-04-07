@@ -1,0 +1,12 @@
+Source: ros-jade-web-video-server
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), libavcodec-dev, libavformat-dev, libavutil-dev, libswscale-dev, ros-jade-async-web-server-cpp, ros-jade-catkin, ros-jade-cv-bridge, ros-jade-image-transport, ros-jade-roscpp, ros-jade-roslib
+Homepage: http://ros.org/wiki/web_video_server
+Standards-Version: 3.9.2
+
+Package: ros-jade-web-video-server
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libavcodec-dev, libavformat-dev, libavutil-dev, libswscale-dev, ros-jade-async-web-server-cpp, ros-jade-cv-bridge, ros-jade-image-transport, ros-jade-roscpp, ros-jade-roslib
+Description: HTTP Streaming of ROS Image Topics in Multiple Formats
