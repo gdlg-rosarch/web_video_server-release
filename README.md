@@ -1,3 +1,26 @@
+## web_video_server (indigo) - 0.0.6-0
+
+The packages in the `web_video_server` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo web_video_server` on `Tue, 17 Jan 2017 08:04:59 -0000`
+
+The `web_video_server` package was released.
+
+Version of package(s) in repository `web_video_server`:
+
+- upstream repository: https://github.com/RobotWebTools/web_video_server.git
+- release repository: https://github.com/RobotWebTools-release/web_video_server-release.git
+- rosdistro version: `0.0.5-0`
+- old version: `0.0.5-0`
+- new version: `0.0.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## web_video_server (indigo) - 0.0.5-0
 
 The packages in the `web_video_server` repository were released into the `indigo` distro by running `/usr/bin/bloom-release web_video_server -t indigo -r indigo` on `Thu, 13 Oct 2016 08:03:43 -0000`
