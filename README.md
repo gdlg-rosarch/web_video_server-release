@@ -1,3 +1,26 @@
+## web_video_server (kinetic) - 0.0.7-0
+
+The packages in the `web_video_server` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release web_video_server --ros-distro kinetic --track kinetic` on `Mon, 20 Nov 2017 16:37:09 -0000`
+
+The `web_video_server` package was released.
+
+Version of package(s) in repository `web_video_server`:
+
+- upstream repository: https://github.com/RobotWebTools/web_video_server.git
+- release repository: https://github.com/RobotWebTools-release/web_video_server-release.git
+- rosdistro version: `0.0.6-0`
+- old version: `0.0.6-0`
+- new version: `0.0.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.8`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## web_video_server (kinetic) - 0.0.6-0
 
 The packages in the `web_video_server` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic web_video_server --new-track` on `Tue, 17 Jan 2017 08:19:23 -0000`
